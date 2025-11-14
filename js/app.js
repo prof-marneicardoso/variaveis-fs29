@@ -37,5 +37,5 @@ let contador;
 const valorC = "valorC";
 console.log(valorC);
 
-valorC = "Marnei";
-console.log(valorC);
+// valorC = "Marnei";
+// console.log(valorC);
